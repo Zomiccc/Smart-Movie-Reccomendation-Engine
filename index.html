@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Movie Recommendation Engine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="logo">🎬 MovieFlix</h1>
+            <p class="tagline">Discover Your Next Favorite Movie</p>
+        </header>
+
+        <main class="main-content">
+            <section class="selection-section">
+                <h2>Select Your Favorite Movies (3-5 recommended)</h2>
+                <div class="search-box">
+                    <input type="text" id="movieSearch" placeholder="Search for movies..." autocomplete="off">
+                    <div id="searchResults" class="search-results"></div>
+                </div>
+                
+                <div class="selected-movies">
+                    <h3>Your Favorites:</h3>
+                    <div id="selectedMoviesList" class="selected-list">
+                        <p class="placeholder">No movies selected yet</p>
+                    </div>
+                </div>
+
+                <button id="getRecommendations" class="btn-primary" disabled>
+                    Get Recommendations
+                </button>
+            </section>
+
+            <section id="recommendationsSection" class="recommendations-section" style="display: none;">
+                <h2>Recommended For You</h2>
+                <div id="recommendationsContainer" class="movie-grid"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,52 @@
+movieId,title,genres,keywords,rating
+1,The Shawshank Redemption,Drama|Crime,prison escape redemption friendship hope,9.3
+2,The Godfather,Crime|Drama,mafia family crime boss italian,9.2
+3,The Dark Knight,Action|Crime|Drama,superhero batman joker crime gotham,9.0
+4,Pulp Fiction,Crime|Drama,gangster nonlinear storytelling violence,8.9
+5,Forrest Gump,Drama|Romance,life journey love war historical events,8.8
+6,Inception,Sci-Fi|Action|Thriller,dreams reality heist mind-bending,8.8
+7,The Matrix,Sci-Fi|Action,reality simulation hacker chosen one,8.7
+8,Goodfellas,Crime|Drama,gangster mob italian american true story,8.7
+9,The Lord of the Rings: The Fellowship of the Ring,Fantasy|Adventure,ring quest hobbit wizard epic journey,8.8
+10,Fight Club,Drama|Thriller,underground fighting mental health consumerism,8.8
+11,Interstellar,Sci-Fi|Drama,space time travel black hole family,8.6
+12,The Silence of the Lambs,Thriller|Crime|Horror,serial killer fbi agent cannibal psychological,8.6
+13,The Departed,Crime|Drama|Thriller,undercover cop mob infiltration betrayal,8.5
+14,Gladiator,Action|Drama,ancient rome revenge gladiator emperor,8.5
+15,The Prestige,Thriller|Drama|Mystery,magic rivalry obsession illusion,8.5
+16,The Lion King,Animation|Drama|Family,lion cub king father death circle of life,8.5
+17,Se7en,Crime|Thriller|Mystery,serial killer seven deadly sins detective,8.6
+18,The Usual Suspects,Crime|Mystery|Thriller,heist criminal mastermind twist ending,8.5
+19,The Green Mile,Drama|Fantasy,prison death row supernatural miracle,8.6
+20,American History X,Drama,racism redemption neo-nazi family,8.5
+21,The Pianist,Drama|War,holocaust world war 2 survival pianist,8.5
+22,Leon: The Professional,Action|Crime|Drama,hitman young girl mentor relationship,8.5
+23,The Intouchables,Comedy|Drama,disability friendship paris rich poor,8.5
+24,Whiplash,Drama|Music,music student teacher perfection obsession,8.5
+25,The Departed,Crime|Drama|Thriller,undercover cop mob infiltration betrayal,8.5
+26,The Prestige,Thriller|Drama|Mystery,magic rivalry obsession illusion,8.5
+27,The Dark Knight Rises,Action|Thriller,superhero batman gotham city final battle,8.4
+28,Inglourious Basterds,War|Drama|Action,world war 2 nazi revenge tarantino,8.3
+29,The Godfather: Part II,Crime|Drama,mafia family sequel young vito,9.0
+30,Schindler's List,Drama|History|War,holocaust world war 2 jewish rescue,8.9
+31,The Lord of the Rings: The Return of the King,Fantasy|Adventure,ring quest hobbit wizard final battle,8.9
+32,The Lord of the Rings: The Two Towers,Fantasy|Adventure,ring quest hobbit wizard middle earth,8.7
+33,City of God,Crime|Drama,brazil favela gang violence coming of age,8.6
+34,Spirited Away,Animation|Adventure|Family,japan spirits magical world coming of age,8.6
+35,Parasite,Thriller|Comedy|Drama,social class korea family deception,8.5
+36,The Lives of Others,Drama|Thriller,east germany stasi surveillance cold war,8.4
+37,Grave of the Fireflies,Animation|Drama|War,japan world war 2 siblings tragedy,8.5
+38,Once Upon a Time in America,Crime|Drama,gangster epic friendship betrayal,8.3
+39,Good Will Hunting,Drama|Romance,genius janitor therapist mathematics,8.3
+40,Casablanca,Romance|Drama|War,world war 2 love triangle morocco,8.5
+41,American Beauty,Drama,suburban life midlife crisis beauty,8.3
+42,The Sixth Sense,Thriller|Drama|Mystery,ghost child psychologist twist ending,8.1
+43,The Truman Show,Comedy|Drama|Sci-Fi,reality tv show fake world discovery,8.1
+44,The Shining,Horror|Drama|Thriller,hotel isolation madness writer supernatural,8.4
+45,Back to the Future,Sci-Fi|Adventure|Comedy,time travel teenager 1980s family,8.5
+46,Alien,Sci-Fi|Horror|Thriller,space horror alien creature spaceship,8.4
+47,Terminator 2: Judgment Day,Action|Sci-Fi,time travel robot future apocalypse,8.5
+48,The Avengers,Action|Adventure|Sci-Fi,superhero team marvel comic book,8.0
+49,The Dark Knight,Action|Crime|Drama,superhero batman joker crime gotham,9.0
+50,Mad Max: Fury Road,Action|Adventure|Sci-Fi,post-apocalyptic wasteland chase action,8.1
+
