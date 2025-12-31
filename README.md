@@ -200,3 +200,9 @@ Built with ❤️ using Flask, scikit-learn, and vanilla JavaScript.
 
 **Note**: This is an offline MVP designed for local use. No external APIs or cloud services are required.
 
+
+<img width="1407" height="856" alt="image" src="https://github.com/user-attachments/assets/17b451b2-c5c5-422b-818f-6ad74d939a14" />
+<img width="1912" height="933" alt="image" src="https://github.com/user-attachments/assets/98bb6b4c-47bf-420b-8f87-338d010f36e9" />
+
+
+
